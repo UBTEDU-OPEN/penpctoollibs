@@ -1,2 +1,9 @@
 # penpctoollibs
-pen pc tool depend libs
+点阵笔教学工具的电脑客户端依赖的库
+
+## 注意
+根据具体平台去实现对应的库
+
+## 开源
+遵循LGPL协议。
+
